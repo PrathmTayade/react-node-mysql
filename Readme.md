@@ -2,7 +2,7 @@ Note:
 
 - using docker for mysql db
 
-- avoided use of envs harcoded values, prefer envs for prod code
+- avoided use of envs, harcoded values are used. prefer envs for prod code
 
 for frontend implemeted optimistic updates
 not included notification or messages for each action
